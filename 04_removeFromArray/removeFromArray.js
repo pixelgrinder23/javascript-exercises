@@ -12,8 +12,6 @@ const removeFromArray = function(arrayIn) {
     return arrayIn;
 };
 
-removeFromArray(["hey", 2, 3, "ho"], "hey", 3);
-
 // Do not edit below this line
 module.exports = removeFromArray;
  

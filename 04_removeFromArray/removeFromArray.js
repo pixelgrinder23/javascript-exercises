@@ -1,6 +1,5 @@
 let toRemoveIndex = 0;
 let slimArray = [];
-let checkArray = [];
 
 const removeFromArray = function(arrayIn) {
     for (let i = 1; i < arguments.length; i++ ) {
